@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: rbco.cliprogram
 Version: 0.0.1
 Summary: Helpers to write Command Line Interface (CLI) programs.
-Home-page: http://pypi.python.org/pypi/rbco.cliprogram
+Home-page: http://code.google.com/p/rbco-cliprogram/
 Author: Rafael Oliveira
 Author-email: rafaelbco@gmail.com
 License: GPL

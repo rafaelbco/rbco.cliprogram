@@ -1,5 +1,6 @@
 HISTORY.txt
 README.txt
+TODO.txt
 setup.cfg
 setup.py
 rbco/__init__.py
