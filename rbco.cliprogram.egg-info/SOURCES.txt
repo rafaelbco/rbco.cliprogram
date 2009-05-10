@@ -1,0 +1,16 @@
+HISTORY.txt
+README.txt
+setup.cfg
+setup.py
+rbco/__init__.py
+rbco.cliprogram.egg-info/PKG-INFO
+rbco.cliprogram.egg-info/SOURCES.txt
+rbco.cliprogram.egg-info/SOURCES.txt~
+rbco.cliprogram.egg-info/dependency_links.txt
+rbco.cliprogram.egg-info/entry_points.txt
+rbco.cliprogram.egg-info/namespace_packages.txt
+rbco.cliprogram.egg-info/not-zip-safe
+rbco.cliprogram.egg-info/paster_plugins.txt
+rbco.cliprogram.egg-info/requires.txt
+rbco.cliprogram.egg-info/top_level.txt
+rbco/cliprogram/__init__.py
